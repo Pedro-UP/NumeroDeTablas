@@ -1,0 +1,12 @@
+C:\Users\chedraui\Documents\visual studio\NumeroDeTablas\NumeroDeTablas\bin\Debug\NumeroDeTablas.exe.config
+C:\Users\chedraui\Documents\visual studio\NumeroDeTablas\NumeroDeTablas\bin\Debug\NumeroDeTablas.exe
+C:\Users\chedraui\Documents\visual studio\NumeroDeTablas\NumeroDeTablas\bin\Debug\NumeroDeTablas.pdb
+C:\Users\chedraui\Documents\visual studio\NumeroDeTablas\NumeroDeTablas\obj\Debug\NumeroDeTablas.csprojAssemblyReference.cache
+C:\Users\chedraui\Documents\visual studio\NumeroDeTablas\NumeroDeTablas\obj\Debug\NumeroDeTablas.exe
+C:\Users\chedraui\Documents\visual studio\NumeroDeTablas\NumeroDeTablas\obj\Debug\NumeroDeTablas.pdb
+C:\Users\chedraui\Documents\visual studio\Segundo Semestre\NumeroDeTablas\NumeroDeTablas\bin\Debug\NumeroDeTablas.exe.config
+C:\Users\chedraui\Documents\visual studio\Segundo Semestre\NumeroDeTablas\NumeroDeTablas\bin\Debug\NumeroDeTablas.exe
+C:\Users\chedraui\Documents\visual studio\Segundo Semestre\NumeroDeTablas\NumeroDeTablas\bin\Debug\NumeroDeTablas.pdb
+C:\Users\chedraui\Documents\visual studio\Segundo Semestre\NumeroDeTablas\NumeroDeTablas\obj\Debug\NumeroDeTablas.csprojAssemblyReference.cache
+C:\Users\chedraui\Documents\visual studio\Segundo Semestre\NumeroDeTablas\NumeroDeTablas\obj\Debug\NumeroDeTablas.exe
+C:\Users\chedraui\Documents\visual studio\Segundo Semestre\NumeroDeTablas\NumeroDeTablas\obj\Debug\NumeroDeTablas.pdb
